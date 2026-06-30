@@ -21,4 +21,4 @@ This section focuses on building an autoregressive language model trained on the
 * **Data Handling:** `tf.data` API for efficient augmentation and pre-fetching
 
 ## 📂 How to Run
-The notebook (`CSC8637_Coursework.ipynb`) contains clear, segmented instructions for both **Training** and **Testing**. You can download the required datasets (CUB-200-2011 and the text corpus) and run the cells sequentially. Saved checkpoints can be loaded directly for evaluation without retraining.
+The notebook (`CUBFineGrainedClassification-NLMtextGen.ipynb`) contains clear, segmented instructions for both **Training** and **Testing**. You can download the required datasets (CUB-200-2011 via https://www.kaggle.com/datasets/xiaojiu1414/cub-200-2011 and the text corpus is available in the repository) and run the cells sequentially. Saved checkpoints can be loaded directly for evaluation without retraining.
